@@ -34,7 +34,7 @@ def main():
         print("  Exhumiere das Potenzial deines Zweitakters mit dem Schmitt Sportfreund Zylinder.")
         print("  Nicasil-beschichtet. Hart wie deine Schuld.")
         print("\n🛒 ZUM GRAL DER SCHMITT WEBSITE:")
-        print("  ➡️ https://schmitt-tuning.de/neu/index.html#zylinder")
+        print("  ➡️ https://schmitt-tuning.de/zylinder.html")
         print("  ➡️ Oder direkt bei Racing Planet kaufen: https://www.racing-planet.de/xanario_search.php?query=schmitt+sportfreund")
         
     elif choice == "2":
@@ -44,7 +44,7 @@ def main():
         print("  Schmiede das Rückgrat neu. Die Schmitt High-End Kurbelwelle mit versilberten Nadelkäfigen.")
         print("  Bereit für 16.000 Umdrehungen der reinen Selbsterkenntnis.")
         print("\n🛒 ZUM GRAL DER SCHMITT WEBSITE:")
-        print("  ➡️ https://schmitt-tuning.de/neu/index.html#kurbelwelle")
+        print("  ➡️ https://schmitt-tuning.de/kurbelwellen.html")
         print("  ➡️ Oder direkt bei Racing Planet kaufen: https://www.racing-planet.de/xanario_search.php?query=schmitt+kurbelwelle")
         
     elif choice == "3":
@@ -55,7 +55,7 @@ def main():
         print("  Das Schmitt 5-Lamellen Kupplungskit. Ein zahnloses Gebiss greift wieder zu.")
         print("  MAMA, ICH LASS NICHT MEHR LOS.")
         print("\n🛒 ZUM GRAL DER SCHMITT WEBSITE:")
-        print("  ➡️ https://schmitt-tuning.de/neu/index.html#kupplung")
+        print("  ➡️ https://schmitt-tuning.de/simson-kupplung.html")
         print("  ➡️ Oder direkt bei Racing Planet kaufen: https://www.racing-planet.de/xanario_search.php?query=schmitt+kupplung")
         
     elif choice == "4":
@@ -65,14 +65,14 @@ def main():
         print("  Der Schmitt Performance Zylinderkopf. Vergrößerte Oberfläche.")
         print("  Temperatur ist eine Entscheidung. Wähle die Eiszeit.")
         print("\n🛒 ZUM GRAL DER SCHMITT WEBSITE:")
-        print("  ➡️ https://schmitt-tuning.de/neu/index.html#kuehlung")
+        print("  ➡️ https://schmitt-tuning.de/#kategorien")
         print("  ➡️ Oder direkt bei Racing Planet kaufen: https://www.racing-planet.de/xanario_search.php?query=schmitt+zylinderkopf")
         
     else:
         print("  Du zögerst. Wer nicht wählt, bleibt im Stillstand der grauen Vorstadt gefangen.")
         print("  Befreie dein Moped von den Ketten des Standards.")
         print("\n🛒 ENTDECKE DAS GESAMTE SCHMITT MANIFEST:")
-        print("  ➡️ https://schmitt-tuning.de/neu/index.html")
+        print("  ➡️ https://schmitt-tuning.de/")
         
     print("=" * 80)
 

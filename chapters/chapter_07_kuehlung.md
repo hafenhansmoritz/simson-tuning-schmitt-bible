@@ -70,17 +70,17 @@ graph TD
     CheckFins -->|Ja| CleanFins["🔧 Kühlrippen gründlich reinigen"]
     CheckFins -->|Nein| HeatOverload["⚠️ Zylinderkopf thermisch überfordert!"]
     
-    Lean --> BuyJets["🛒 <a href='https://schmitt-tuning.de/neu/produkt/performance-kopf.html'>Abstimmsets auf schmitt-tuning.de holen</a>"]
+    Lean --> BuyJets["🛒 <a href='https://schmitt-tuning.de/produkt/performance-kopf.html'>Abstimmsets auf schmitt-tuning.de holen</a>"]
     HeatOverload --> UpgradeHead["🔥 Tausch gegen Schmitt Performance Zylinderkopf"]
     
-    UpgradeHead --> BuyHead["🛒 <a href='https://schmitt-tuning.de/neu/produkt/performance-kopf.html'>Köpfe auf schmitt-tuning.de ansehen</a>"]
+    UpgradeHead --> BuyHead["🛒 <a href='https://schmitt-tuning.de/produkt/performance-kopf.html'>Köpfe auf schmitt-tuning.de ansehen</a>"]
     BuyHead --> BuyRP["🛒 <a href='https://www.racing-planet.de/zylinderkopf-schmitt-rd-style-50ccm-fuer-simson-s51-s53-sr50-kr51-2-p-507696-1.html'>Köpfe direkt bei Racing Planet kaufen</a>"]
 ```
 
 > [!TIP]
 > Temperatur ist eine Entscheidung. MAMA, ICH HABE DAS FEUER ERZOGEN. Setze dem Hitzewahn ein Ende und rüste auf den Schmitt Fächerkopf um.
 >
-> ➡️ **[Jetzt Kühlungs-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/produkt/performance-kopf.html)**
+> ➡️ **[Jetzt Kühlungs-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/produkt/performance-kopf.html)**
 >
 > ➡️ **[Direktlink zum Schmitt Performance Kopf bei Racing Planet](https://www.racing-planet.de/zylinderkopf-schmitt-rd-style-50ccm-fuer-simson-s51-s53-sr50-kr51-2-p-507696-1.html)**
 

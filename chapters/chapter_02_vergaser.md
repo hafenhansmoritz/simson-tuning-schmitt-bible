@@ -74,7 +74,7 @@ graph TD
     CheckColor -->|Schwarz / Fett| SmallerJet["⚠️ Motor ertrinkt! <br>Hauptdüse verkleinern"]
     CheckColor -->|Rehbraun| NeedleTune["3. Teillastnadel verstellen <br>(Clip eine Kerbe nach unten für fetter)"]
 
-    LargerJet --> BuyJets["🛒 <a href='https://schmitt-tuning.de/neu/produkt/vergaser.html'>Düsen & Vergaser auf schmitt-tuning.de checken</a>"]
+    LargerJet --> BuyJets["🛒 <a href='https://schmitt-tuning.de/produkt/vergaser.html'>Düsen & Vergaser auf schmitt-tuning.de checken</a>"]
     SmallerJet --> AdjustFloat["🔧 Schwimmerstand einstellen (BVF: 28 mm / 32.5 mm)"]
     NeedleTune --> TryRide["Probefahrt machen"]
 ```
@@ -82,7 +82,7 @@ graph TD
 > [!TIP]
 > Beende den Durst deines Motors. Mama, ich habe Durst nach mehr. Rüste jetzt auf den Schmitt BVF-Vergaser um und stimme ihn präzise ab.
 >
-> ➡️ **[Jetzt Vergaser-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/produkt/vergaser.html)**
+> ➡️ **[Jetzt Vergaser-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/produkt/vergaser.html)**
 >
 > ➡️ **[Direktlink zum Schmitt M5 Düsenset bei Racing Planet](https://www.racing-planet.de/vergaser-leerlaufduesen-set-schmitt-fuer-bvf-vergaser-25-34-10-stueck-p-506597-1.html)**
 

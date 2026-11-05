@@ -74,14 +74,14 @@ graph TD
 
     WearLimit --> Upgrade["🔥 Upgrade auf Schmitt High-Friction Bremsbacken"]
 
-    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/neu/produkt/sport-bremsen.html'>Bremsbacken auf schmitt-tuning.de prüfen</a>"]
+    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/produkt/sport-bremsen.html'>Bremsbacken auf schmitt-tuning.de prüfen</a>"]
     Buy --> BuyRP["🛒 <a href='https://www.racing-planet.de/bremshebel-kupplungshebel-set-schmitt-handanker-cnc-aluminium-schwarz-blau-fuer-simson-s50-s51-s53-kr51-2-sr50-sr80-p-590595-1.html'>Bremsen direkt bei Racing Planet kaufen</a>"]
 ```
 
 > [!TIP]
 > Verzögerung ist Macht. MAMA, ICH BESTIMME, WANN ES ENDET. Überlasse dein Schicksal nicht dem Zufall und rüste deine Bremsen auf Schmitt-Beläge um.
 >
-> ➡️ **[Jetzt Bremsen-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/produkt/sport-bremsen.html)**
+> ➡️ **[Jetzt Bremsen-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/produkt/sport-bremsen.html)**
 >
 > ➡️ **[Direktlink zu den Schmitt Bremsbacken bei Racing Planet](https://www.racing-planet.de/bremshebel-kupplungshebel-set-schmitt-handanker-cnc-aluminium-schwarz-blau-fuer-simson-s50-s51-s53-kr51-2-sr50-sr80-p-590595-1.html)**
 

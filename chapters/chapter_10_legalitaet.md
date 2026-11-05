@@ -84,7 +84,7 @@ graph TD
 > [!TIP]
 > MAMA, SIE WISSEN NICHT, WAS ICH BIN. Aber der TÜV-Prüfer wird es absegnen. Bereite deine Simson auf die Einzelabnahme vor und montiere Schmitt Verstärkungsteile.
 >
-> ➡️ **[Jetzt Zulassungs-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/index.html#home)**
+> ➡️ **[Jetzt Zulassungs-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/)**
 >
 > ➡️ **[Verstärkungsteile und CNC-Komponenten im Racing Planet Shop ansehen](https://www.racing-planet.de/radnabe-fuer-scheibenbremse-vorn-schwarz-fuer-simson-s50-s51-s70-s53-s83-enduro-p-586056-1.html)**
 

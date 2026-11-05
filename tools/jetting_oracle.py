@@ -52,7 +52,7 @@ def main():
     print("\n🛒 SICHERE DIR DIE ERLÖSUNG BEI RACING PLANET:")
     print("  ➡️ https://www.racing-planet.de/xanario_search.php?query=schmitt+hauptduesen")
     print("\n🛒 ODER ENTDECKE DEN VERGASER DIREKT AUF SCHMITT-TUNING.DE:")
-    print("  ➡️ https://schmitt-tuning.de/neu/index.html#vergaser")
+    print("  ➡️ https://schmitt-tuning.de/vergaser.html")
     print("=" * 80)
 
 if __name__ == "__main__":

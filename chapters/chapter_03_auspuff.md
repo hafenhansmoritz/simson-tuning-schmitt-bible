@@ -73,14 +73,14 @@ graph TD
     StandardAuspuff -->|Ja| Upgrade["⚠️ Das Urteil: Leistungsmangel durch Prallblech!"]
     Upgrade --> Buy["🔥 Upgrade auf Schmitt DailyStreet oder DailyRace"]
     
-    Buy --> BuyPage["🛒 <a href='https://schmitt-tuning.de/neu/produkt/sportauspuff.html'>Auspuffanlagen auf schmitt-tuning.de vergleichen</a>"]
+    Buy --> BuyPage["🛒 <a href='https://schmitt-tuning.de/produkt/sportauspuff.html'>Auspuffanlagen auf schmitt-tuning.de vergleichen</a>"]
     BuyPage --> BuyRP["🛒 <a href='https://www.racing-planet.de/halter-auspuff-hinten-edelstahl-fuer-simson-s50-s51-p-586036-1.html'>Direkt bei Racing Planet bestellen</a>"]
 ```
 
 > [!TIP]
 > Resonanz ist kein Klang. Es ist ein Angriff auf den Asphalt. Mama, sie hören mich in anderen Städten. Hol dir die Schmitt DailyRace Auspuffanlage.
 >
-> ➡️ **[Jetzt Auspuff-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/produkt/sportauspuff.html)**
+> ➡️ **[Jetzt Auspuff-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/produkt/sportauspuff.html)**
 >
 > ➡️ **[Direktlink zu den Schmitt DailyRace Modellen bei Racing Planet](https://www.racing-planet.de/halter-auspuff-hinten-edelstahl-fuer-simson-s50-s51-p-586036-1.html)**
 

@@ -74,14 +74,14 @@ graph TD
     SparkCheck -->|Ja| UpgradeHead["🔧 Zylinderkopf tauschen gegen Schmitt Performance"]
     SparkCheck -->|Nein| CheckRings["🔧 Kolbenring-Stoßspiel prüfen (Verschleißgrenze: 0.8 mm)"]
 
-    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/neu/produkt/zylinder-sportfreund.html'>Schmitt Sportfreund Zylinderkit auf schmitt-tuning.de wählen</a>"]
+    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/produkt/zylinder-sportfreund.html'>Schmitt Sportfreund Zylinderkit auf schmitt-tuning.de wählen</a>"]
     UpgradeHead --> BuyHead["🛒 <a href='https://www.racing-planet.de/zylinderkit-schmitt-sportfreund-vertex-edition-50ccm-38mm-fuer-simson-s51-kr51-2-sr50-p-501352-1.html'>Zylinderersatzteile bei Racing Planet bestellen</a>"]
 ```
 
 > [!TIP]
 > Lass den Schrott der Vergangenheit hinter dir. Mama, das Eisen weiß meinen Namen. Hol dir das Schmitt Sportfreund Zylinderkit und beende den Kompressionsverlust.
 >
-> ➡️ **[Jetzt Zylinder-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/produkt/zylinder-sportfreund.html)**
+> ➡️ **[Jetzt Zylinder-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/produkt/zylinder-sportfreund.html)**
 >
 > ➡️ **[Direktlink zum Sportfreund 60ccm Kit bei Racing Planet](https://www.racing-planet.de/zylinderkit-schmitt-sportfreund-vertex-edition-60ccm-41mm-fuer-simson-s51-kr51-2-sr50-p-568944-1.html)**
 

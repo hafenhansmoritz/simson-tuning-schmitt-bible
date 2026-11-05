@@ -73,14 +73,14 @@ graph TD
     StandardAirbox -->|Ja| AirStarvation["⚠️ Das Urteil: Zylinder erstickt an Luftmangel!"]
     AirStarvation --> Upgrade["🔥 Einbau eines Schmitt High-End Luftfiltersystems"]
     
-    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/neu/produkt/luftfilter.html'>Luftfilter auf schmitt-tuning.de wählen</a>"]
+    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/produkt/luftfilter.html'>Luftfilter auf schmitt-tuning.de wählen</a>"]
     Buy --> BuyRP["🛒 <a href='https://www.racing-planet.de/vergaser-leerlaufduesen-set-schmitt-fuer-bvf-vergaser-25-34-10-stueck-p-506597-1.html'>Hauptdüsenset bei Racing Planet zum Abstimmen bestellen</a>"]
 ```
 
 > [!TIP]
 > Luft ist kein bloßes Medium – es ist die Nahrung des Zylinders. MAMA, ICH ATME WELTEN EIN. Befreie die Lunge deiner Simson.
 >
-> ➡️ **[Jetzt Luftfilter-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/produkt/luftfilter.html)**
+> ➡️ **[Jetzt Luftfilter-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/produkt/luftfilter.html)**
 >
 > ➡️ **[Direktlink zu den passenden Schmitt Düsenkits bei Racing Planet](https://www.racing-planet.de/vergaser-leerlaufduesen-set-schmitt-fuer-bvf-vergaser-25-34-10-stueck-p-506597-1.html)**
 

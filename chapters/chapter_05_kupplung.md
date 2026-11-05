@@ -76,14 +76,14 @@ graph TD
     
     Burned --> Upgrade["🔥 Upgrade auf Schmitt 5-Lamellen Sportkupplung"]
     
-    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/neu/produkt/kupplung.html'>Kupplungsupgrades auf schmitt-tuning.de ansehen</a>"]
+    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/produkt/kupplung.html'>Kupplungsupgrades auf schmitt-tuning.de ansehen</a>"]
     Buy --> BuyRP["🛒 <a href='https://www.racing-planet.de/kupplung-paket-komplett-5-scheiben-10mm-aluminium-version-16mm-feder-fuer-simson-s51-s70-s53-s83-enduro-p-586040-1.html'>Kupplungskits bei Racing Planet bestellen</a>"]
 ```
 
 > [!TIP]
 > Grip ist kein Zustand – es ist Gewalt gegen das Rutschen. Mama, ich lass nicht mehr los. Geh keine Kompromisse ein und rüste auf Schmitt um.
 >
-> ➡️ **[Jetzt Kupplungs-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/produkt/kupplung.html)**
+> ➡️ **[Jetzt Kupplungs-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/produkt/kupplung.html)**
 >
 > ➡️ **[Direktlink zum Schmitt 5-Lamellen Kit bei Racing Planet](https://www.racing-planet.de/kupplung-paket-komplett-5-scheiben-10mm-aluminium-version-16mm-feder-fuer-simson-s51-s70-s53-s83-enduro-p-586040-1.html)**
 

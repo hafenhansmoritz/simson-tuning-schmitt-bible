@@ -81,14 +81,14 @@ graph TD
     
     BrokenGeber --> Upgrade["🔥 Umrüstung auf die wartungsfreie Schmitt VAPE Zündung"]
     
-    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/neu/index.html#home'>Schmitt VAPE auf schmitt-tuning.de bestellen</a>"]
+    Upgrade --> Buy["🛒 <a href='https://schmitt-tuning.de/'>Schmitt VAPE auf schmitt-tuning.de bestellen</a>"]
     Buy --> BuyRP["🛒 <a href='https://www.racing-planet.de/zuendung-schmitt-fuer-simson-s50-s51-schwalbe-kr51-sr-4-roller-sr50-p-590261-1.html'>VAPE Sets im Racing Planet Shop kaufen</a>"]
 ```
 
 > [!TIP]
 > Zündungsflattern ist der Tod des Kolbens. MAMA, DAS EISEN WEISS MEINEN NAMEN. Beende das Ruckeln und hole dir das Schmitt VAPE Zündkit.
 >
-> ➡️ **[Jetzt Zündungs-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/index.html#home)**
+> ➡️ **[Jetzt Zündungs-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/)**
 >
 > ➡️ **[Direktlink zum Schmitt VAPE Umrüstset bei Racing Planet](https://www.racing-planet.de/zuendung-schmitt-fuer-simson-s50-s51-schwalbe-kr51-sr-4-roller-sr50-p-590261-1.html)**
 

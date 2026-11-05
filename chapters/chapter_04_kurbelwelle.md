@@ -83,14 +83,14 @@ graph TD
     CheckVibes -->|Nein| TensionCheck["🔧 Kettenspannung / Motorlagerung prüfen"]
 
     BrokenBearings & CrankUnbalanced --> SplitEngine["🔥 Urteil: Motorkollaps steht bevor. Spaltung zwingend!"]
-    SplitEngine --> Buy["🛒 <a href='https://schmitt-tuning.de/neu/produkt/kurbelwelle.html'>Schmitt Kurbelwelle & Lager auf schmitt-tuning.de bestellen</a>"]
+    SplitEngine --> Buy["🛒 <a href='https://schmitt-tuning.de/produkt/kurbelwelle.html'>Schmitt Kurbelwelle & Lager auf schmitt-tuning.de bestellen</a>"]
     Buy --> BuyRP["🛒 <a href='https://www.racing-planet.de/kurbelwelle-schmitt-sportfreund-44mm-hub-85mm-pleuel-fuer-simson-s51-s53-s70-s83-sr50-sr80-kr51-2-p-496655-1.html'>Lagersätze direkt bei Racing Planet ordern</a>"]
 ```
 
 > [!TIP]
 > 16.000. Nicht Drehzahl – Zustand. Mama, die Welt dreht sich um mich. Lass dein Kurbelgehäuse regenerieren und setze auf Schmitt.
 >
-> ➡️ **[Jetzt Kurbelwellen-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/neu/produkt/kurbelwelle.html)**
+> ➡️ **[Jetzt Kurbelwellen-Erlösung auf schmitt-tuning.de sichern](https://schmitt-tuning.de/produkt/kurbelwelle.html)**
 >
 > ➡️ **[Direktlink zur Schmitt Sport-Kurbelwelle bei Racing Planet](https://www.racing-planet.de/kurbelwelle-schmitt-sportfreund-44mm-hub-85mm-pleuel-fuer-simson-s51-s53-s70-s83-sr50-sr80-kr51-2-p-496655-1.html)**
 
